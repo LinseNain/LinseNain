@@ -1,22 +1,53 @@
-### Hi there 👋
+<h1 align="left">Hi there 👋</h1>
 
-# Linsenain 🚀
+###
 
-¡Hola! Soy Linse Nain, un apasionado desarrollador web con un enfoque en el desarrollo full stack.
+<p align="left">Hello! I’m Linse Nain, a passionate web developer with a focus on full-stack development.</p>
 
-## Sobre mí
-- Desarrollador web apasionado por crear soluciones elegantes y funcionales.
-- Amante de la automatización y la eficiencia.
+###
 
-## Habilidades clave
-- 💻 **Full Stack Developer**: Experiencia en desarrollo tanto en el frontend como en el backend.
-- 🛠️ **Tecnologías**: HTML5, CSS3, Bootstrap, JavaScript (React.js, Flux), Python (Flask, SQLAlchemy).
-- 🗃️ **Bases de datos**: MySQL.
-- 🌐 **APIs**: Consumo y creación de APIs REST.
+<h2 align="left">About me</h2>
 
-  ## Enlaces
-- 🌐 Mi perfil de LinkedIn : www.linkedin.com/in/linsenain
-- 📧 Correo electrónico: linsepgstr@gmail.com
+###
 
+<p align="left">✨ Passionate web developer who enjoys creating elegant and functional solutions. <br>📚 Enthusiast of automation and efficiency.</p>
 
+###
 
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+</div>
+
+###
+
+<h2 align="left">Contact me</h2>
+
+###
+
+<p align="left">🌐 Mi perfil de LinkedIn : www.linkedin.com/in/linsenain<br><br>📧 Correo electrónico: linsepgstr@gmail.com</p>
+
+###
