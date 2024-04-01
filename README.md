@@ -1,16 +1,22 @@
 ### Hi there 👋
 
+# Linsenain 🚀
 
-**LinseNain/LinseNain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Linse Nain, un apasionado desarrollador web con un enfoque en el desarrollo full stack.
 
-Here are some ideas to get you started:
+## Sobre mí
+- Desarrollador web apasionado por crear soluciones elegantes y funcionales.
+- Amante de la automatización y la eficiencia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Habilidades clave
+- 💻 **Full Stack Developer**: Experiencia en desarrollo tanto en el frontend como en el backend.
+- 🛠️ **Tecnologías**: HTML5, CSS3, Bootstrap, JavaScript (React.js, Flux), Python (Flask, SQLAlchemy).
+- 🗃️ **Bases de datos**: MySQL.
+- 🌐 **APIs**: Consumo y creación de APIs REST.
+
+  ## Enlaces
+- 🌐 Mi perfil de LinkedIn : www.linkedin.com/in/linsenain
+- 📧 Correo electrónico: linsepgstr@gmail.com
+
+
 
